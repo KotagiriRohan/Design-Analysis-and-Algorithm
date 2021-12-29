@@ -46,6 +46,6 @@ int main(int argc, char const *argv[])
     scanf("%d",&num);
 
     printf("Using recursive binary search %d",binary_search_recursive(a,num,0,n-1));
-    printf("Using iterative binary search %d",iterative_binary_search_recursive(a,num,n));
+    printf("Using iterative binary search %d",binary_search_iterative(a,num,n));
     return 0;
 }
