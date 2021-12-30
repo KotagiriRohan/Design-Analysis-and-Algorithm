@@ -7,4 +7,7 @@
   <li>Binary Search</li>
   <li>Bucket Sort</li>
   <li>Count Sort</li>
+  <li>Heap Sort</li>
+  <li>Insertion Sort</li>
+  <li>Merge Sort</li>
 </ul>
