@@ -10,4 +10,7 @@
   <li>Heap Sort</li>
   <li>Insertion Sort</li>
   <li>Merge Sort</li>
+  <li>Quick Sort</li>
+  <li>Radix Sort</li>
+  <li>Selection Sort</li>
 </ul>
