@@ -17,4 +17,10 @@
   <li>Huffman Encoding</li>
   <li>Kruskal Algorithm</li>
   <li>Prims Algorithm</li>
+  <li>KMP</li>
+  <li>Knapsnak</li>
+  <li>Matrix Chain</li>
+  <li>Priority Queue</li>
+  <li>Rabin carp</li>
+  <li>Topological sort</li>
 </ul>
