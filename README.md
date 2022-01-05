@@ -19,6 +19,7 @@
   <li>Prims Algorithm</li>
   <li>KMP</li>
   <li>Knapsnak</li>
+  <li>LCS</li>
   <li>Matrix Chain</li>
   <li>Priority Queue</li>
   <li>Rabin carp</li>
